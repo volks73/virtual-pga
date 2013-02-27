@@ -11,16 +11,16 @@ The Virtual-PGA software allows for the selection of up to four independent chan
 
 === Development ===
 
- * LabVIEW 2012 or newer Development Environment 
+ * [http://www.ni.com/labview/ LabVIEW] 2012 or newer Development Environment 
  * Application Builder (for application build only)
- * NI-VISA driver
+ * [http://joule.ni.com/nidu/cds/view/p/id/2914/lang/en NI-VISA driver]
  * Measurement and Automation Explorer, aka MAX, (comes with NI-VISA)
  * Pickering [http://downloads.pickeringtest.info/downloads/drivers/Sys60/ ClientBrdige Driver (Full Install)] for LXI Systems
 
 === Deployment and Use ===
 
- * LabVIEW 2012 or newer run-time engine ([http://joule.ni.com/nidu/cds/view/p/id/3433/lang/en freely available])
- * NI-VISA driver
+ * [http://joule.ni.com/nidu/cds/view/p/id/3433/lang/en LabVIEW 2012] or newer run-time engine (freely available)
+ * [http://joule.ni.com/nidu/cds/view/p/id/2914/lang/en NI-VISA] driver
  * Measurement and Automation Explorer, aka MAX, (comes with NI-VISA)
  * Pickering [http://downloads.pickeringtest.info/downloads/drivers/Sys60/ ClientBrdige Driver (Full Install)] for LXI Systems
 
