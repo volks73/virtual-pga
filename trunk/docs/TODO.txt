@@ -1,0 +1,13 @@
+= Virtual-PGA Application TODO =
+
+ # Use functional global and action engine for pattern storage
+ # Add XML read error display on open pattern
+ # Update error handling to follow queue message framework
+ # Prepare source code for release and open source
+ # Add color-coded input display to X-Ray indicator (Green = Y1, Red = Y2, Blue = Y3, etc.)
+ # Add color-coded input display to PGA indicator (Green = Y1, Red = Y2, Blue = Y3, etc.)
+ # Add XML schema validation support
+ # Add XML multiple version support to loading and saving
+ # Add XML version parameter to configuration file
+ # Implement VPGA XML version 3
+ # Add default patterns to configuration file

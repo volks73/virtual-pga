@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern xmlns="http://nrl.navy.mil/vpga3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vpga3.xsd">
+	<name>Example</name>
+	<description>An example pattern.</description>
+	<inputs>
+		<input id="Y1">
+			<label>Low</label>
+			<pads>
+				<pad>1</pad>
+			</pads>
+		</input>
+		<input id="Y2"> 
+			<label>Low Sense</label>
+			<pads>
+				<pad>2</pad>
+			</pads>
+		</input>
+		<input id="Y3">
+			<label>High</label>
+			<pads>
+				<pad>3</pad>
+			</pads>
+		</input>
+		<input id="Y4">
+			<label>High Sense</label>
+			<pads>
+				<pad>4</pad>
+			</pads>
+		</input>
+	</inputs>
+</pattern>
