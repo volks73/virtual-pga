@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern name="Example 2" xmlns="http://nrl.navy.mil/vpga2">
+	<description>
+		An example pattern.
+	</description>
+	<inputs>
+		<input id="Y1" label="Low">
+			<pad id="1"/>
+		</input>
+		<input id="Y2" label="Low Sense">
+			<pad id="2"/>
+		</input>
+		<input id="Y3" label="High">
+			<pad id="3"/>
+		</input>
+		<input id="Y4" label="High Sense">
+			<pad id="4"/>
+		</input>
+	</inputs>
+</pattern>
