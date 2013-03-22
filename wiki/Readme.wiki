@@ -41,7 +41,7 @@ Download the source code from the project's Subversion repository and then follo
 
  # Install the [https://www.ni.com/labview LabVIEW] 2012 or newer Development Environment from [http://www.ni.com National Instruments, Inc]. 
  # Install the [http://sine.ni.com/nips/cds/view/p/lang/en/nid/10731 Application Builder]. 
- # Open the Sample Chamber project file, "Virtual-PGA.lvproj", located in the root folder of the source code.
+ # Open the Virtual-PGA project file, "Virtual-PGA.lvproj", located in the root folder of the source code.
  # Expand the "Build Specifications" node in the project tree.
  # Highlight, right-click on "Application", and select "Build" on the context menu that appears.
  # The build process will start and create a "Virtual-PGA.exe" file, a "Virtual-PGA.ini" file, a "data" folder, and a "Virtual-PGA.aliases" file, in the "builds" folder, located in the root folder of the source code.
