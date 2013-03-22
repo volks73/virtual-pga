@@ -61,7 +61,7 @@ The Virtual-PGA driver can be downloaded as a pre-built ZIP file from the projec
  # Create a "libs" virtual folder in the "My Computer" node of the projec tree.
  # Highlight, right-click the "libs" virtual folder, and select "Add->File..." from the context popup menu that appears.
  # Navigate to the "libs" folder on the hard disk in the root folder of the project and select the "Virtual-PGA.lvlib" file.
- # The library file will be added to the "libs" virtual folder and the Kiethley-2602 driver is now available for use in the project.
+ # The library file will be added to the "libs" virtual folder and the Virtual-PGA driver is now available for use in the project.
 
 ==== Global Environment ====
 
@@ -80,8 +80,8 @@ The Virtual-PGA driver can be downloaded as a pre-built ZIP file from the projec
 
 ==== From Pre-Built ZIP ====
 
- # Copy the "Keithley2602.zip" file to any public location on the hard disk.
- # Unzip the "Keithley2602.zip" file. A "Virtual-PGA" folder will be created within the same location as the ZIP file.
+ # Copy the "Virtual-PGA_App_vX.X.X.zip" file to any public location on the hard disk.
+ # Unzip the "Virtual-PGA_App_vX.X.X.zip" file. A "Virtual-PGA" folder will be created within the same location as the ZIP file.
  # Create a link or shortcut to the "Virtual-PGA.exe" file and place it on the desktop or in the start menu.
 
 == Versions ==
