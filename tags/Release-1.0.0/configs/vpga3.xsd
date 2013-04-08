@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="pattern">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="name" type="xs:string" minOccurs="1" maxOccurs="1"/>
+				<xs:element name="description" type="xs:string" minOccurs="1" maxOccurs="1"/>
+				<xs:element name="inputs" use="required">
+					<xs:complexType>
+						<xs:element name="input" minOccurs="0" maxOccurs="unbounded">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="label" type="xs:string"/>
+									<xs:element name="pads">
+										<xs:complexType>
+											<xs:element name="pad" type="xs:integer" minOccurs="0" maxOccurs="unbounded"/>
+										</xs:complexType>
+									</xs:element>
+								</xs:sequence>
+								<xs:attribute name="id" type="xs:string" use="required"/>						
+							</xs:complexType>
+						</xs:element>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
