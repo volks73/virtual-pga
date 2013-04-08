@@ -1,7 +1,5 @@
 = Virtual-PGA Application TODO =
 
- # Fix bug where cannot save a pattern to a new file
- # Pin 51 not properly labeled in X-Ray indicator
  # Rotate indicators so Pin 1 is in upper left hand corner, not in lower left hand corner
  # Use functional global and action engine for pattern storage
  # Add XML read error display on open pattern
